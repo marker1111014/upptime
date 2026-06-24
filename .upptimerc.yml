@@ -3,12 +3,12 @@ owner: marker1111014 # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
-  - name: Alist
+  - name: alist
     url: https://markfile.dpdns.org/
-  - name: VPN
+  - name: vpn
     url: http://158.101.137.221:2053
-  - name: upptime
-    url: http://132.145.126.183:3001
+  - name: upptime kuma
+    url: http://132.145.126.183:3001/dashboard
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
