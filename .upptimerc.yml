@@ -7,8 +7,8 @@ sites:
     url: https://markfile.dpdns.org/
   - name: vpn
     url: http://158.101.137.221:2053
-  - name: upptime kuma
-    url: http://132.145.126.183:3001/dashboard
+  - name: vps1
+    url: http://132.145.126.183
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
