@@ -11,8 +11,13 @@ sites:
     url: https://civitai.red
   - name: cloudflare cfnew
     url: https://edge-98b3ad66.pages.dev
+  - name: reddit.idevicehacked.com
+    url: https://reddit.idevicehacked.com
+  - name: redlib.freedit.eu
+    url: https://redlib.freedit.eu
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
