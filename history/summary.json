@@ -44,19 +44,19 @@
     "url": "https://civitai.red",
     "icon": "https://icons.duckduckgo.com/ip3/civitai.red.ico",
     "slug": "civitai",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 672,
-    "timeWeek": 486,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 402,
+    "timeDay": 614,
+    "timeWeek": 494,
+    "timeMonth": 402,
+    "timeYear": 402,
     "dailyMinutesDown": {
-      "2026-07-18": 1
+      "2026-07-18": 125
     }
   },
   {
@@ -94,7 +94,7 @@
     "timeMonth": 31,
     "timeYear": 31,
     "dailyMinutesDown": {
-      "2026-07-18": 851,
+      "2026-07-18": 976,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -127,7 +127,7 @@
     "timeMonth": 29,
     "timeYear": 29,
     "dailyMinutesDown": {
-      "2026-07-18": 851,
+      "2026-07-18": 976,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
