@@ -4,20 +4,20 @@
     "url": "https://markfile.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/markfile.dpdns.org.ico",
     "slug": "alist",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
-    "time": 705,
-    "timeDay": 521,
-    "timeWeek": 690,
-    "timeMonth": 795,
-    "timeYear": 705,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "88.73%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.42%",
+    "time": 707,
+    "timeDay": 628,
+    "timeWeek": 707,
+    "timeMonth": 797,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2026-06-26": 182,
-      "2026-08-04": 1
+      "2026-08-04": 162
     }
   },
   {
@@ -95,7 +95,7 @@
     "timeMonth": 29,
     "timeYear": 29,
     "dailyMinutesDown": {
-      "2026-08-04": 488,
+      "2026-08-04": 651,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
@@ -145,7 +145,7 @@
     "timeMonth": 28,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2026-08-04": 488,
+      "2026-08-04": 651,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
